@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesalidate",
+        "uuid": 3253796,
+        "checksum": "5xjcrp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
